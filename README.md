@@ -13,7 +13,8 @@ Signal based trading strategy:
 
 Profits made:
 
-![trading3](https://user-images.githubusercontent.com/55191934/82346127-b6ca7880-9a13-11ea-91e3-05dd60d6b7ea.PNG)
+![trading3](https://user-images.githubusercontent.com/55191934/82346278-e0839f80-9a13-11ea-8f02-3f6faf135871.PNG)
+
 
 
 
